@@ -32,8 +32,6 @@ The team is exploring or evaluating the following components. **The exact role a
 - **TinyFish** — web-search integration, when configured and verified
 - **Kokoro** — speech generation / text-to-speech experimentation
 - **Deep Think** — reasoning or model-assisted experimentation; exact provider and implementation to be confirmed
-- **VT** — [write the full name and role of this component]
-- **Smol** — [write the exact model name and role, such as vision, language, or another task]
 - **Computer vision / depth estimation** — experimental analysis of camera or image input
 
 Models and services may have different licenses, hardware requirements, privacy implications, and network needs. Consult their official documentation before deployment. Do not include API keys, access tokens, or other secrets in this repository.
